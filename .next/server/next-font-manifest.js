@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/suzume/NINJA/OpenSource/github/model/NVIDIA/app/layout\":[\"static/media/968c529aef8f703d-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

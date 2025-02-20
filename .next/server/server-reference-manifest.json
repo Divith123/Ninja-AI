@@ -1,0 +1,14 @@
+{
+  "node": {
+    "7332de112a30ade01027998e1588b230958679d3": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fsuzume%2FNINJA%2FOpenSource%2Fgithub%2Fmodel%2FNVIDIA%2Fapp%2Factions.tsx%22%2C%5B%22continueConversation%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "gRTj1MWZmxfL1QH6ebZZ8A+YtW6CuKxHacDylZfylaw="
+}
